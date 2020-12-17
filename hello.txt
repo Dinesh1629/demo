@@ -1,14 +1,17 @@
 hello world
+
+
+fgm3trgbrbhrh
  modified data
 
 
 
 
-dinesh
-
-<<<<<<< HEAD
+dineshkumar
 
 
-=======
->>>>>>> master
+
+
 kumar
+
+
